@@ -3,7 +3,7 @@ import './App.css';
 
 let asd = 1;
 const test = () => {
-  if(asd ==1){
+  if(asd === 1){
     alert("asd");
   }
 }
